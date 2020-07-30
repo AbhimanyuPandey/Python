@@ -1,0 +1,6 @@
+a = complex(4,7)
+b = complex(2,14)
+print("The Addition of thw two complex numbers is: ", a+b)
+print("The subtraction of two complex numbers is: ", a-b)
+print("The multipication of two complex numbers is: ", a*b)
+print("The division of two complex numbers is: ", a/b)
